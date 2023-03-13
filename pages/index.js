@@ -87,7 +87,7 @@ export default function Home() {
               </h2>
             </div>
             <Image
-              src={`/logo tv.png`}
+              src="https://i.imgur.com/OdtWzkv.png"
               width={450}
               height={400}
               alt="logo tv"
@@ -109,7 +109,7 @@ export default function Home() {
             </div>
             <div className="lg:ml-32 lg:w-1/3 lg:mt-12">
               <Image
-                src={`/logo mobile.jpg`}
+                src="https://i.imgur.com/u2QbW39.jpg"
                 width={450}
                 height={450}
                 alt="logo tv"
@@ -118,7 +118,7 @@ export default function Home() {
               <div className="flex items-center justify-between relative -top-24 bg-black  border-2 border-gray-800 w-[60%] m-auto text-left p-2 rounded-lg">
                 <div className="flex">
                   <Image
-                    src="/stranger things.png"
+                    src="https://i.imgur.com/K8UB8D7.png"
                     width={30}
                     height={70}
                     alt="mendownload"
@@ -148,7 +148,7 @@ export default function Home() {
               </h2>
             </div>
             <Image
-              src={`/logo device.png`}
+              src="https://i.imgur.com/WE3WceD.png"
               width={450}
               height={450}
               alt="logo tv"
